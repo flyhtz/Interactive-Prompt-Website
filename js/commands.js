@@ -2,6 +2,7 @@ var youtube = "https://www.youtube.com/flyhtz/";
 var password = "flyhtz";
 var instagram = "https://www.instagram.com/autisticprogrammer/";
 var github = "https://github.com/flyhtz/";
+var docs = "https://github.com/flyhtz/Interactive-Prompt-Website"
 
 whois = [
   "<br>",
@@ -63,4 +64,10 @@ banner = [
                                                      
   '<span class="color2">Welcome to my interactive web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+];
+
+docs = [
+  "<br>",
+  'docs         <a href="' + docs + '" target="_blank">github/flyhtz/interactive-prompt' + "</a>",
+  "<br>"
 ];
