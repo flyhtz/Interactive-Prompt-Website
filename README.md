@@ -1,3 +1,3 @@
 # Interactive Prompt Website
 
-Dont know how to make pretty readme files so just download it and open the index and ull see what it does lol
+Dont know how to make pretty readme files so just go to [this webpage](https://flyhtz.nl/Interactive-Prompt-Website/) to check it out lol.
