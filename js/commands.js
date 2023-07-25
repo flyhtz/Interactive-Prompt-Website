@@ -2,7 +2,7 @@ var youtube = "https://www.youtube.com/flyhtz/";
 var password = "flyhtz";
 var instagram = "https://www.instagram.com/autisticprogrammer/";
 var github = "https://github.com/flyhtz/";
-var docs = "https://github.com/flyhtz/Interactive-Prompt-Website"
+var docs = "https://github.com/flyhtz/Interactive-Prompt-Website/"
 
 whois = [
   "<br>",
@@ -69,6 +69,6 @@ banner = [
 
 docs = [
   "<br>",
-  'docs         <a href="' + docs + '" target="_blank">github/flyhtz/interactive-prompt' + "</a>",
+  'docs         <a href="' + docs + '" target="_blank">github/docs' + "</a>",
   "<br>"
 ];
