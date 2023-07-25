@@ -51,6 +51,7 @@ help = [
   '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
+  '<span class="command">docs</span>           Go to documentation of this website',
   "<br>",
 ];
 
